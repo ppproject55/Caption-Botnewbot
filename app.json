@@ -9,7 +9,7 @@
   ],
   "success_url": "https://telegram.com/capxbot",
   "website": "https://github.com/avipatilpro/Caption-Bot",
-  "repository": "https://github.com/avipatilpro/Caption-Bot",
+  "repository": "https://github.com/ppproject55/Caption-Botnewbot",
   "logo": "https://telegra.ph/file/a3e95bf96275cb37844b1.jpg",
   "env": {
     "WEBHOOK": {
